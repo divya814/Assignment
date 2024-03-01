@@ -28,6 +28,6 @@ It is completely responsive and created with a user-friendly design.
 
 
 ## This is how the App looks
-[https://ibb.co/L6YVZCd]
+[https://ibb.co/L6YVZCd.png]
 
 ** Specifically built for the given company assignment **
