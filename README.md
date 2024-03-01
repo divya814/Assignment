@@ -27,6 +27,6 @@ It is completely responsive and created with a user-friendly design.
 
 
 ## This is how the App looks
-[https://imgur.com/NLhYAah.png]
+![Divya](https://imgur.com/NLhYAah.png)
 
 ** Specifically built for the given company assignment **
